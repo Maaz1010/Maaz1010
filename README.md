@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maaz</h1>
-<h3 align="center">A passionate Software developer from India 😄</h3>
+<h3 align="center">A Software developer from India 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaz1010&label=Profile%20views&color=0e75b6&style=flat" alt="maaz1010" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🌱 I’m good at **Spring Boot, React**
 
 - 👨‍💻 All of my projects are available at [https://maazportfolio-six.vercel.app/](https://maazportfolio-six.vercel.app/)
 
@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/v-mohammad-maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-mohammad-maaz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammad_maaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammad_maaz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
